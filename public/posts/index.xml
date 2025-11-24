@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Cyb3r3lla IT Blog</title>
-        <link>http://localhost:8080/</link>
-        <description>Recent content on Cyb3r3lla IT Blog</description>
+        <title>Posts on Cyb3r3lla IT Blog</title>
+        <link>http://localhost:8080/posts/</link>
+        <description>Recent content in Posts on Cyb3r3lla IT Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 24 Nov 2025 08:53:59 +0300</lastBuildDate><atom:link href="http://localhost:8080/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 24 Nov 2025 08:53:59 +0300</lastBuildDate><atom:link href="http://localhost:8080/posts/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>My First Tech Post</title>
         <link>http://localhost:8080/posts/my-first-tech-post/</link>
         <pubDate>Mon, 24 Nov 2025 08:53:59 +0300</pubDate>
