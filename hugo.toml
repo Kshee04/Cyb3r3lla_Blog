@@ -1,0 +1,12 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Cyb3r3lla IT Blog"
+theme = "stack"
+paginate = 15
+timeZone = "Africa/Nairobi"
+
+# Additional parameters required by Stack theme
+[params]
+  mainSections = ["posts"]
+  featuredImageField = "featuredimage"
+  rssFullText = true
