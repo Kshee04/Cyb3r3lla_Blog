@@ -1,0 +1,13 @@
+{
+	"version": 3,
+	"file": "mein_style.css",
+	"sourceRoot": "/home/hackitect/my-it-blog",
+	"sources": [
+		"themes/stargazer-layout/assets/css/mein_style.css"
+	],
+	"sourcesContent": [
+		"body {\n    /* background : red; */\n}\n"
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,IAAI,CAAC;EACD,uBAAuB,EAC1B"
+}
